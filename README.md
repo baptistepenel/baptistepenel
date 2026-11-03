@@ -1,6 +1,6 @@
 # Bonjour, je suis Baptiste 👋
 
-Product Designer et PM, je travaille sur la fintech et je construis des apps iOS en parallèle.
+Product Designer, Design Engineer, Product Builder, je travaille en fintech (+5 ans d'expérience) et je construis des apps iOS en parallèle.
 
 ## Projets
 
