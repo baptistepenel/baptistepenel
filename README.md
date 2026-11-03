@@ -2,11 +2,14 @@
 
 Product Designer et PM, je travaille sur la fintech et je construis des apps iOS en parallèle.
 
-## En ce moment
+## Projets
 
 - **Books**, une app iOS de suivi de lecture (SwiftUI, SwiftData, CloudKit, Live Activities)
+- **Posture**, une app iOS de micro-pauses pour se tenir droit en télétravail (Expo, React Native)
+- **GTA VI Countdown**, une app iOS de compte à rebours avec widgets et écran verrouillé
 - **La Recette**, un kit pour construire une app iOS de A à Z avec Claude Code
 - **Mockup Studio**, des mockups iPhone en 3D
+- **Étoffe**, un jeu de gestion d'une marque de vêtements
 
 ## Ce qui m'intéresse
 
