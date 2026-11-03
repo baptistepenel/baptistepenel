@@ -18,3 +18,5 @@ Concevoir des produits simples sur des marchés déjà occupés, en partant de l
 ## Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-penel/)
+
+Plus sur [baptiste-penel.fr](https://baptiste-penel.fr)
